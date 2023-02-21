@@ -1,0 +1,18 @@
+// const uilMultipy = document.querySelector('.uil-multiply')
+// const ulList = document.querySelector('.ul-list')
+// const checkId = document.querySelector('.check-id')
+// let uil=document.querySelector(".uil-list-ul")
+
+// // uilMultipy.addEventListener('click', function(){
+// //     ulList.style.visibility = 'hidden'
+// //     ulList.style.left ='-100%'
+// //     ulList.style.display = 'none'
+
+// // })
+// // checkId.addEventListener('click', function(){
+// //     // ulList.style.visibility = 'visible'
+// //     // ulList.style.opacity = '1'
+// //     // ulList.style.left ='0'
+// //     ulList.style.display = 'flex'
+
+// // })
